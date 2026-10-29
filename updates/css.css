@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(18, 18, 21);
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+h2 {
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+    text-align: center;
+}
+h3 {
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.joao {
+    color: rgb(0, 132, 255)
+}
+.queimado {
+    color: rgb(255, 0, 0)
+}
+.remastered {
+    color: rgb(255, 171, 81);
+}
+.primeiro {
+    background-color: rgb(18, 18, 21);
+    border-color: rgb(255, 255, 255);
+    width: 40%;
+}
+.primeiroimg {
+    height: 80%;
+    width: 80%;
+}
+.div {
+    display: flex;
+    background-color: rgb(37, 37, 37);
+    border-radius: 10px;
+    width: 90%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+.divperfil {
+    display: flex;
+    background-color: rgb(37, 37, 37);
+    border-radius: 10px;
+    width: 20%;
+    height: 100px;
+    margin-bottom: 2%;
+}
+.textoperfil {
+    color: white;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.fotojao {
+    border-radius: 100px;
+}
+
